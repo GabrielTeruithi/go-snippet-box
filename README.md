@@ -1,1 +1,0 @@
-# go-snippet-box
